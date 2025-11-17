@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkqr_treasurehunt=globalThis.webpackChunkqr_treasurehunt||[]).push([[647],{7121:(e,r,s)=>{s.r(r),s.d(r,{default:()=>l});s(6540);var u=s(4164),a=s(7559),t=s(5500),h=s(2831),n=s(1656),c=s(4848);function l(e){return(0,c.jsx)(t.e3,{className:(0,u.A)(a.G.wrapper.docsPages),children:(0,c.jsx)(n.A,{children:(0,h.v)(e.route.routes)})})}}}]);
